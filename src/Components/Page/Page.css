@@ -1,0 +1,77 @@
+.carousel-item img{
+    margin: auto;
+    height: 450px;
+}
+
+.img-cover{
+    position: absolute;
+    display: block;
+    top: -13px;
+    left: -13px;
+    right: -13px;
+    bottom: -13px;
+    background: no-repeat center;
+        background-image: none;
+        background-size: auto;
+    background-size: cover;
+    -webkit-filter: blur(13px);
+    filter: blur(13px);
+    opacity: .4;
+}
+
+.head-wrap{
+    background-color: #01aaff;
+    padding: 10px 78px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.title-wrap{
+    color: whitesmoke;
+}
+
+.body{
+    margin-top: 40px;
+}
+
+.logo img{
+    width: 30px;
+}
+
+.title-wrap div{
+    font-size: large;
+    line-height: 40px;
+    font-weight: bold;
+    white-space: nowrap;
+    font: Arial,'Helvetica Neue',Helvetica,sans-serif;
+}
+
+.title{
+    text-align: left;
+}
+
+.price{
+    text-align: right;
+}
+
+#carousel{
+    width: 100%;
+    margin: auto;
+}
+
+.description{
+    margin: 10% 0;
+}
+
+.address{
+    text-align: left;
+    font-style: italic;
+    font-weight: bold;
+    text-align: right;
+}
+
+.sellerName{
+    font-weight: bold;
+    text-align: center;
+}

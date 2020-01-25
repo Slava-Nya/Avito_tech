@@ -1,0 +1,29 @@
+.shapka-wrap{
+    background-color: #01aaff;
+    padding: 10px 78px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    color: whitesmoke;
+    font-size: large;
+    line-height: 40px;
+    font-weight: bold;
+    white-space: nowrap;
+    font: Arial,'Helvetica Neue',Helvetica,sans-serif;
+}
+
+.card-group{
+    margin-bottom: 20px;
+}
+
+.property-wrapper{
+    margin-top: 40px;
+}
+
+.card-size{
+    height: 400px;
+}
+
+.images{
+    width: 250px;
+}
